@@ -17,7 +17,7 @@ The official mobile application for the CST Club of Dhaka Polytechnic Institute 
   <tr>
     <td><img src="https://i.postimg.cc/bJt0GF61/ws1.jpg" width="200" alt="Welcome Screen"></td>
     <td><img src="https://i.postimg.cc/Cxh4v71V/ws3.jpg" width="200" alt="Main WebView"></td>
-    <td><img src="https://i.postimg.cc/mrhy4rCX/ws2.jpg" width="200" alt="Loading Screen"></td>
+    <td><img src="https://i.postimg.cc/c4MJ2KTV/Dark-Mode-Loading-Screen.jpg" width="200" alt="Dark Mode Loading Screen"></td>
   </tr>
 </table>
 
